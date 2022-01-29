@@ -1,6 +1,9 @@
 # Red Ring Of Doom
 ASCII multiplayer online battle
 
+## Downloads
+* [Windows](https://github.com/silent-g-host/red-ring-of-doom/releases/download/0.0.7/red-ring-of-doom.exe)
+
 ## Keys
 * "wasd" or arrow keys to move around
 * Space bar to shoot
