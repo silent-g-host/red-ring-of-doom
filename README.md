@@ -1,4 +1,4 @@
-# red-ring-of-doom
+# Red Ring Of Doom
 ASCII multiplayer online battle
 
 ## Keys
